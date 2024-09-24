@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Kaiqiao Han"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student @ucla"
+  bio              : "Ph.D. Student @UCLA"
   #location         : "Earth"
   #employer         : "Red Brick University"
   #uri              : # URL
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/kaiqiao19017"# Username for X / Twitter
+  twitter          : "kaiqiao19017"# Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
