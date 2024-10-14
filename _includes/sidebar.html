@@ -17,6 +17,21 @@
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
+    
+    <!-- Adding the Education Section -->
+    {% if page.sidebar.education %}
+      <h3>Education</h3>
+      <ul>
+        {% for edu in page.sidebar.education %}
+          <li>
+            <strong>{{ edu.degree }}</strong><br>
+            {{ edu.school }}<br>
+            <small>{{ edu.date }}</small>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
