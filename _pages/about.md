@@ -15,8 +15,24 @@ I am excited to discuss and collaborate with individuals from diverse background
 
 Recent Research
 ======
+LLM reasoning
+=======
+
+AI for science
+=======
+
+Graph
+=======
+
 
 Publications
-======
+=======
+Please refer to my google scholar profile for the lastest publications and preprints.
 
-<!-- Education/activity/award/advised/hobby/dataset -->
+Academic service
+======
+TNNLS reviewers
+
+Selected Awards
+======
+<!-- Education/advised/hobby/dataset -->
