@@ -16,7 +16,12 @@ I am excited to discuss and collaborate with individuals from diverse background
 Recent Research
 ======
 LLM reasoning
-=======
+======
+the common theme is improving LLM reasoning by tackling challenges in robustness, structure, and efficiency.
+
+In CR-WSC, I expose vulnerabilities in LLMs' reasoning through adversarial evaluation, showing how subtle concept changes can lead to errors.
+In GraphLLM, I address LLMs' poor performance on structured graph data, integrating graph learning models for better reasoning.
+With GraphAdapter, I focus on efficiency, combining GNNs with LLMs to handle text-attributed graphs with minimal computational cost.
 
 AI for science
 =======
