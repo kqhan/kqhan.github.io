@@ -19,10 +19,10 @@
     {% endfor %}
     
     <!-- Adding the Education Section -->
-    {% if page.sidebar.education %}
+    {% if page.education %}
       <h3>Education</h3>
       <ul>
-        {% for edu in page.sidebar.education %}
+        {% for edu in page.education %}
           <li>
             <strong>{{ edu.degree }}</strong><br>
             {{ edu.school }}<br>
