@@ -16,8 +16,7 @@ url                      : https://kqhan.github.io # the base hostname & protoco
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
-sidebar:
-  education:
+education:
     - degree: "Ph.D. in Computer Science"
       school: "XYZ University"
       date: "2016 - 2020"
