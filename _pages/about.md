@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D. student at UCLA advised by Prof. Yizhou Sun.
+I'm a first-year Ph.D. student at UCLA advised by Prof. Yizhou Sun. My research interests include LLM, AI for Science, and Graph.
 
 I received my CS bachelor degree at Zhejiang University, advised by Prof. Yang Yang at AINet Lab. Fortunately, I also receive guidance from Prof. Carl Yang at Emory Graph Mining Lab.
 
