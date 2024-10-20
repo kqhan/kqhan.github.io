@@ -47,13 +47,53 @@ To provide a fresh understanding of graph self-supervised learning based on task
 Publications
 =======
 Please refer to my Google Scholar profile for the latest publications and preprints.
+\begin{enumerate}
+    \item \textbf{Concept-Reversed Winograd Schema Challenge: Evaluating and Improving Robust Reasoning in Large Language Models via Abstraction} \\
+    \textit{\textbf{Kaiqiao Han*}, Tianqing Fang*, Zhaowei Wang, Yangqiu Song, Mark Steedman} \\
 
-Academic service
+    \item \textbf{Can GNN be Good Adapter for LLMs? } (WWW 24)\\
+    \textit{Xuanwen Huang, \textbf{Kaiqiao Han}, Yang Yang, Dezheng Bao, Quanjin Tao, Ziwei Chai, Qi Zhu} \\
+
+    \item \textbf{GraphLLM: Boosting Graph Reasoning Ability of Large Language Model} \\
+    \textit{Ziwei Chai, Tianjie Zhang, Liang Wu, \textbf{Kaiqiao Han}, Xiaohai Hu, Xuanwen Huang, Yang Yang} \\
+
+    \item \textbf{BrainODE: Dynamic Brain Network Analysis via Graph-Aided Neural Ordinary Differential Equations} (BHI 24)\\
+    \textit{\textbf{Kaiqiao Han}, Yi Yang, Zijie Huang, Xuan Kan, Yang Yang, Ying Guo, Lifang He, Liang Zhan, Yizhou Sun, Wei Wang, Carl Yang} \\
+
+    \item \textbf{Prompt-based node feature extractor for few-shot learning on text-attributed graphs} \\
+    \textit{Xuanwen Huang, \textbf{Kaiqiao Han}, Dezheng Bao, Quanjin Tao, Zhisheng Zhang, Yang Yang, Qi Zhu} \\
+
+    \item \textbf{Exploring Correlations of Self-supervised Tasks for Graphs} (ICML 24)\\
+    \textit{Taoran Fang, Wei Zhou, Yifei Sun, \textbf{Kaiqiao Han}, Lvbin Ma, Yang Yang} \\
+
+    \item \textbf{\textbf{A Neural Dynamics Driven Diffusion Method for
+Learning Representations of Brain Signals}} \\
+    \textit{Fanze Fu, Yang Yang, Junru Chen, \textbf{Kaiqiao Han}, Carl Yang} \\
+    
+    % \item \textbf{Title of the paper} \\
+    % \textit{Author(s)} \\
+\end{enumerate}
+Other Projects
+======
+\textbf{Behavior Modeling and Recommender System in Influencer Economy}
+
+We study the system for recommending proper influencers to businesses by modeling the influencers and network.
+
+
+\textbf{AI Model Security Assessment and Hardening Platform}
+
+National Innovation and Entrepreneurship Program for College Students, leader, advised by \href{https://nesa.zju.edu.cn/webpage/crew/jsl.html}{{Shouling Ji}}
+
+Academic Service
 ======
 Reviewers of IEEE Transactions on Neural Networks and Learning Systems(TNNLS)
 
 Selected Awards
 ======
-National Scholarship (Twice)
+National Scholarship (Twice, Top 1\%) 
+
+Outstanding Graduates of Zhejiang University
+
+First-prize of Zhejiang Provincial Mathematics Competition
 
 <!-- Education/advised/hobby/dataset -->
